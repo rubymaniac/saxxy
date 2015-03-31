@@ -4,7 +4,7 @@ source 'https://rubygems.org'
 gemspec
 
 platform :ruby do
-  gem "libxml-ruby"
+  gem "libxml-ruby", "~>2.8.0"
   gem "ox"
   gem "redcarpet"
 end
