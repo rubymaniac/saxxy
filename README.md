@@ -1,4 +1,4 @@
-# `Saxxy` A Ruby DSL for SAX parsers [![Build Status](https://travis-ci.org/rubymaniac/saxxy.png?branch=master)](https://travis-ci.org/rubymaniac/saxxy)
+# `Saxxy` A Ruby DSL for SAX parsers [![Build Status](https://travis-ci.org/rubymaniac/saxxy.png?branch=master)](https://travis-ci.org/rubymaniac/saxxy) [![Code Climate](https://codeclimate.com/github/rubymaniac/saxxy/badges/gpa.svg)](https://codeclimate.com/github/rubymaniac/saxxy)
 
 Saxxy is designed to be a DSL for creating SAX parsers. If anyone tells you that you are masochist 'cause you are SAX parsing HTML show her `Saxxy`.
 
@@ -114,4 +114,3 @@ No issues
 3. Commit your changes (`git commit -am 'Added some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
-[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/c6bbeb377f74da9f3e282fa2fbf4b6a3 "githalytics.com")](http://githalytics.com/rubymaniac/saxxy)
